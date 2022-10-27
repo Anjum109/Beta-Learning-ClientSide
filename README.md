@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Project Name: Beta Learning.
+Live Site Link:
+GitHub Repository->
+Client site Link:
+Server Site Link:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+About Beta Learning Project:
+
+* At First i create two different types folder. which is for client side and server site.
+for creating client site i use create-react-app. 
+* For the designing purpose i use the react-bootstrap framework.
+* i use firebase config and to get user's info i use Email, password , google and github login provider from firebase.
+* For different types of icons i use react-icons
+* For creating a pdf method i use html2canvas and react-pdf.
+* I use environmet variable.
+* Last but not the list for deploying i use firebase hosting and vercel.
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -67,4 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
