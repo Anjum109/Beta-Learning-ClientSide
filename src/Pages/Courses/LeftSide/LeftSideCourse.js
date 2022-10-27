@@ -8,7 +8,7 @@ const LeftSideCourse = () => {
     const [coursesList, setCoursesList] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5000/courses')
+        fetch('https://beta-learning-server.vercel.app/courses')
             .then(res => res.json())
             .then(data => setCoursesList(data));
     }, [])

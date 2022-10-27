@@ -2,7 +2,7 @@ import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import ReactPlayer from 'react-player';
-import { useLoaderData } from 'react-router-dom';
+import { Link, useLoaderData } from 'react-router-dom';
 import DownloadPage from '../CardCourse/DownloadPage/DownloadPage';
 
 const AllDetails = () => {
@@ -26,7 +26,7 @@ const AllDetails = () => {
                             Tutorial Video for learning purpose:
                         </Card.Text>
 
-                        <Button variant="primary">Go somewhere</Button>
+
                     </Card.Body>
                 </Card>
             </div>

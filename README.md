@@ -1,8 +1,10 @@
 # Project Name: Beta Learning.
-Live Site Link:
+Live Site Link: https://beta-learning.web.app/
+
 GitHub Repository->
-Client site Link:
-Server Site Link:
+Client site Link: https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-Anjum109
+
+Server Site Link: https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Anjum109 
 
 About Beta Learning Project:
 

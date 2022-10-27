@@ -40,12 +40,12 @@ export const routes = createBrowserRouter([
             {
                 path: '/courses/:id',
                 element: <CardCourse></CardCourse>,
-                loader: ({ params }) => fetch(`http://localhost:5000/courses/${params.id}`)
+                loader: ({ params }) => fetch(`https://beta-learning-server.vercel.app/courses/${params.id}`)
             },
             {
                 path: '/allCourses/:id',
                 element: <PrivateRoute> <AllDetails></AllDetails></PrivateRoute>,
-                loader: ({ params }) => fetch(`http://localhost:5000/allcourses/${params.id}`)
+                loader: ({ params }) => fetch(`https://beta-learning-server.vercel.app/allcourses/${params.id}`)
             },
             {
                 path: '/terms',
