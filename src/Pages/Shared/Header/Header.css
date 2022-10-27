@@ -1,0 +1,19 @@
+.navbar {
+    color: rgb(186, 179, 179);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.name {
+    text-decoration: none;
+    color: beige;
+    border: none;
+    background-color: rgb(88, 85, 82);
+    border-radius: 30px;
+}
+
+.name:hover {
+    background-color: rgba(140, 146, 144, 0.715);
+    color: beige;
+}
